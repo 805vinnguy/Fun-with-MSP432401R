@@ -1,0 +1,10 @@
+*.launches
+*.settings
+Debug
+targetConfigs
+*.ccsproject
+*.cproject
+*.project
+*.cmd
+startup_msp432p401r_ccs.c
+system_msp432p401r.c
